@@ -1,0 +1,27 @@
+{
+  "name": "vitaeea",
+  "version": "1.0.0",
+  "main": "poloniex.js",
+  "description": "poloniex.com API client library for Node.js",
+  "author": "HalWeimann",
+  "license": "GPL-2.0",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KatlynKuphal/vitaeea.git"
+  },
+  "keywords": [
+    "impedit",
+    "api",
+    "nihil",
+    "qui",
+    "eth",
+    "delectus",
+    "at",
+    "exchange"
+  ],
+  "bugs": {
+    "url": "https://github.com/KatlynKuphal/vitaeea.git/issues"
+  },
+  "homepage": "https://github.com/KatlynKuphal/vitaeea.git"
+}
